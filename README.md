@@ -1,1 +1,1 @@
-# apps_notepad
+# Aplikasi Notepad Sederhana
